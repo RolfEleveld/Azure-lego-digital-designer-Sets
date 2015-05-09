@@ -5,6 +5,9 @@ Lego sets that represent Azure cloud components so you can design with tangible 
 To share Azure "Bricks" in Lego designer for you to use and share freely outside of this community
 Feel free to send pull requests, I'll do my best to include your work for sharing alike.
 
+##Reference
+Original concept of 3D Azure objects was created by Rob Boucher Jr [robb@MSFT], and is hosted in [an article on Github](https://github.com/Azure/azure-content/blob/master/articles/architecture-overview.md)
+
 #license
 Copyright 2015 Rolf Eleveld
 
