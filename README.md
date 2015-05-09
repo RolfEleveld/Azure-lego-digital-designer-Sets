@@ -2,7 +2,7 @@
 Lego sets that represent Azure cloud components so you can design with tangible lego objects
 
 ##intent
-To share Azure "Bricks" in Lego designer for you to use and share freely outside of this community
+To share Azure "Bricks" created in [Lego digital designer](http://ldd.lego.com/) for you to use and share freely outside of this community
 Feel free to send pull requests, I'll do my best to include your work for sharing alike.
 
 ##Reference
